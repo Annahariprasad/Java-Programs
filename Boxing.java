@@ -15,7 +15,7 @@ public class Boxing{
         System.out.println("Short value : "+n3);
         System.out.println("Float value : "+n4);
         System.out.println("Double value : "+n5);
-        System.out.println("Char value : "+n6);
+        System.out.println("Character value : "+n6);
         System.out.println("Boolean value : "+n7);
         //AutoUnboxing
         int m1 = n1;
